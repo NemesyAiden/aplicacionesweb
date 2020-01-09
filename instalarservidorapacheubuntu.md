@@ -3,7 +3,7 @@
 ## introduccion Servidor Apache
 
 
-$ sudo apt install apache2
+```$ sudo apt install apache2```
 
 en caso de error
 
