@@ -7,6 +7,8 @@
 
 **en caso de error**
 ---
+
+$sudo fuser -vki /var/lib/dpkg/lock
 ###Firewall de windows
 ===
 ```sudo fuser -vki /var/lib/dpkg/lock```
