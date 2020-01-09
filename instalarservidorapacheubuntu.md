@@ -17,3 +17,7 @@
 ```sudo ufw status```
 
 ```sudo ufw enable```
+
+
+ejercicio 1.
+estamos en la empresa guru.com y nos han pedido que creemos una pequeña pagina web en un servidor apache para probar el servidor web, pero la interfaz grafica no funciona y hay que hacerlo desde la consola.
