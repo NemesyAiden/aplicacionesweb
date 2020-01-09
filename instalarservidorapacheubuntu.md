@@ -7,4 +7,4 @@
 
 en caso de error
 
-sudo fuser -vki /var/lib/dpkg/lock
+```sudo fuser -vki /var/lib/dpkg/lock```
