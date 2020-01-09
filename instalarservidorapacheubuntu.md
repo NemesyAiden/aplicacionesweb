@@ -9,3 +9,11 @@
 ---
 
 ```sudo fuser -vki /var/lib/dpkg/lock```
+
+```sudo ufw app list```
+
+```sudo ufw allow 'nombreaplicacion'```
+
+```sudo ufw status```
+
+```sudo ufw enable```
