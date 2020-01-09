@@ -5,6 +5,6 @@
 
 ```$ sudo apt install apache2```
 
-===**en caso de error**===
-
+**en caso de error**
+===
 ```sudo fuser -vki /var/lib/dpkg/lock```
