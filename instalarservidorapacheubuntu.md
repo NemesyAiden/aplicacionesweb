@@ -36,3 +36,6 @@ estamos en la empresa guru.com y nos han pedido que creemos una pequeña pagina 
 -el comando ```hostname -I``` te da las direcciones ip del equipo
 
 -si usas el comando curl con la direccion de alguna web o tu propia ip te saldra el codigo html de esa pagina, por ejemplo ```curl www.google.es```
+
+
+crear dos carpetas con el comando ```mkdir``` en /var/www para incluir ahi los archvos html que queramos visualizar en nuestra pagina.
