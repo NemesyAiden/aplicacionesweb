@@ -39,3 +39,6 @@ estamos en la empresa guru.com y nos han pedido que creemos una pequeña pagina 
 
 
 crear dos carpetas con el comando ```mkdir``` en /var/www para incluir ahi los archvos html que queramos visualizar en nuestra pagina.
+
+copiamos el archivo 000-default.com incluido dentro de las carpetas de apache2 en su instalacion y lo copiamos en la misma ruta en la que se encuentra cambiando su nombre a example.com.conf con el comando
+```cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/example.com.conf```
